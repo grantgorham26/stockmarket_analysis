@@ -3,3 +3,4 @@
 
 To acheive the greatest increase,decrease and total volume I used the worksheet.functionsmax/min which I found on the microsoft learn/help website for vba. To get the tickers to match the numbers I used the match worksheetfunction which I learned about from a tutoring session. To help me further understand the function i again use the microsoft help/learn website. https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max,https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.Min, https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.match
 
+To get the code to run on all workshets I used the student census part 1 in class activity as a resource.
